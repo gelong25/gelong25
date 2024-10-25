@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:1e90ff,1:87CEEB&height=200&section=header&text=Hazel's%20github&fontSize=80&fontColor=ffffff&animation=fadeIn)
+
+
 ## Introduction 
 안녕하세요! 🙋‍♀️ 개발자 Hazel입니다. 제가 생각하는 좋은 개발자는 문제를 어떻게 정의할지 그리고 어떻게 해결할지 아는 사람이라고 생각합니다. 이를 위해 다양한 경험과 지속적인 학습을 하고있습니다. 앞으로도 새로운 기술에 도전하고 다양한 프로젝트에 참여하며 성장하고 싶습니다! 🏃‍♀️
 <br />
