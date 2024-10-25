@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:1e90ff,1:87CEEB&height=200&section=header&text=Hazel's%20github&fontSize=80&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Hazel's%20github&fontSize=80&fontColor=ffffff&animation=fadeIn)
 
 
 ## Introduction 
