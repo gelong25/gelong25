@@ -46,7 +46,7 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  📨  Channel </h2> 
     <div style="text-align: left;"> <a href=https://velog.io/@hayaon0603/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@hayaon0603/posts"> </a>
-         <a href=mailto:johayeon788@gmail.com> <img src="https://img.shields.io/badge/Gmail-6BAED6?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:johayeon788@gmail.com"> </a>
+         <a href=mailto:hayeonjo.dev@gmail.com> <img src="https://img.shields.io/badge/Gmail-6BAED6?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:johayeon788@gmail.com"> </a>
           </div>  <br> 
 
 
