@@ -1,9 +1,9 @@
 
 <div align= "left">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dbae8,100:3380e6&height=240&text=Hazel's%20github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dbae8,100:3380e6&height=240&text=Hayeon's%20github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 🙋‍♀️ 개발자 Hazel입니다. </h2>  
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 🙋‍♀️ 개발자 Hayeon입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 제가 생각하는 좋은 개발자는 문제를 어떻게 정의할지 그리고 어떻게 해결할지 아는 사람이라고 생각합니다. </li><br></li>이를 위해 다양한 경험과 지속적인 학습을 하고있습니다. </li><br></li>앞으로도 새로운 기술에 도전하고 다양한 프로젝트에 참여하며 성장하고 싶습니다! 🏃‍♀️ </div> 
     </div><br />
 <br />
