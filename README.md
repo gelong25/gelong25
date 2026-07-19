@@ -23,7 +23,6 @@
 
 ## 🛠 Skills
 
-🛠 Skills
 
 **Language / Framework**
 
